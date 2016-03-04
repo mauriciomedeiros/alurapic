@@ -1,0 +1,6 @@
+angular.module('alurapic').controller('FotosController', function($scope){
+   $scope.foto = {
+      titulo: 'Um titulo'
+   }
+
+});
